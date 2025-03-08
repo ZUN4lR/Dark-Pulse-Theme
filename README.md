@@ -7,7 +7,7 @@
 
 The most stylish theme for Visual Studio Code.
 
-- [YourThemeName](#yourthemename)
+- [Dark Pulse Theme](#yourthemename)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Installation](#installation)
