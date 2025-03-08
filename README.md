@@ -1,4 +1,4 @@
-# YourThemeName [<img src="https://yourtheme-website.com/logo.png" alt="YourThemeName" width="90" height="90" align="right">](https://yourtheme-website.com/)
+# Dark Pulse Theme [<img src="logo.png" alt="YourThemeName" width="90" height="90" align="right">](https://yourtheme-website.com/)
 > A modern and sleek theme for Visual Studio Code.
 
 <img src="https://yourtheme-website.com/divider.png" height="30">
