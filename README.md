@@ -37,7 +37,7 @@ This will create a `.vsix` file in your theme folder.
 ### 🛠 Step 4: Install the Theme in VS Code
 1. Open **Visual Studio Code**.
 2. Go to **Extensions** (
-    <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> , <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=24 height=24/> `Ctrl+Shift+X` / <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> `⌘+Shift+X`).
+    <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> , <img src="https://www.kernel.org/theme/images/logos/favicon.png" top=5 width=18 height=18/> `Ctrl+Shift+X` / <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> `⌘+Shift+X`).
 3. Click on the `...` (More Actions) button in the top-right corner.
 4. Select **Install from VSIX...**
 5. Choose the generated `.vsix` file and install it.
