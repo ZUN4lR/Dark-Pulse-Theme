@@ -4,14 +4,9 @@
 
 ---
 
-<table style="border-collapse: collapse; width: 100%; padding: 10px">
-  <tr>
-    <td style="border: none; padding: 0; border-radius: 8px;">
-      <img src="logo.png" style="width: 100%; display: block;">
-    </td>
-  </tr>
-</table>
-
+<div>
+      <img src="logo.png" style="width: 100%; border-radius: 10%; display: block;" >
+</div> 
 
 ## 🚀 Installation Guide
 
