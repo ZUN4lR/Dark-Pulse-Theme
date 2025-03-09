@@ -2,6 +2,14 @@
 
 > A modern and stylish theme designed to enhance your Visual Studio Code experience.
 
+
+
+<table>
+  <tr>
+    <td><img src="logo.png" width="500"></td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Installation Guide
@@ -9,7 +17,7 @@
 ### 📥 Step 1: Clone the Repository
 First, download the theme from GitHub:
 
-```shell
+```bash
 git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git
 cd Dark-Pulse-Theme
 ```
@@ -60,17 +68,6 @@ Want to personalize it further? Override theme colors by adding the following in
     }
 }
 ```
-
----
-
-## 🖼 Screenshots
-
-<table>
-  <tr>
-    <td><img src="screenshot1.png" width="500"></td>
-    <td><img src="screenshot2.png" width="500"></td>
-  </tr>
-</table>
 
 ---
 
