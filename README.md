@@ -4,7 +4,7 @@
 
 ---
 <div style="border-radius: 10%; overflow: hidden; width: 100%;">
-    <img src="logo.png" style="width: 100%; border-radius: 10%; display: block;">
+    <img src="screen-shot.png" style="width: 100%; height:50%; display: block;">
 </div>
 
 ## 🚀 Installation Guide
@@ -13,7 +13,7 @@
 First, download the theme from GitHub:
 
 ```bash
-git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git
+git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git</br>
 cd Dark-Pulse-Theme
 ```
 
