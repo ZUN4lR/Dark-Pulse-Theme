@@ -13,7 +13,7 @@
 First, download the theme from GitHub:
 
 ```bash
-git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git</br>
+git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git
 cd Dark-Pulse-Theme
 ```
 
