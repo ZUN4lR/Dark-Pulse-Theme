@@ -15,6 +15,7 @@ First, download the theme from GitHub:
 ```bash
 git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git
 cd Dark-Pulse-Theme
+npm install
 ```
 
 ### 🔧 Step 2: Install Required Package
