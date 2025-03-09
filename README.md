@@ -3,10 +3,9 @@
 > A modern and stylish theme designed to enhance your Visual Studio Code experience.
 
 ---
-
-<div>
-      <img src="logo.png" style="width: 100%; border-radius: 10%; display: block;" >
-</div> 
+<div style="border-radius: 10%; overflow: hidden; width: 100%;">
+    <img src="logo.png" style="width: 100%; border-radius: 10%; display: block;">
+</div>
 
 ## 🚀 Installation Guide
 
