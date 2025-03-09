@@ -9,13 +9,10 @@
 ### 📥 Step 1: Clone the Repository
 First, download the theme from GitHub:
 
-<div style="border: 2px solid #4F44D6; border-radius: 8px; padding: 10px; background-color: #1E1E1E; color: white; display: inline-block;">
-  
-```bash
+```shell
 git clone https://github.com/ZUN4lR/Dark-Pulse-Theme.git
 cd Dark-Pulse-Theme
 ```
-</div>
 
 ### 🔧 Step 2: Install Required Package
 To generate a `.vsix` file for manual installation, install `vsce` (VS Code Extension Manager):
