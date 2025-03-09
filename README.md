@@ -1,4 +1,4 @@
-# YourThemeName - A Sleek VS Code Theme [<img src="logo.png" alt="YourThemeName" width="90" height="90" align="right">](https://yourtheme-website.com/)
+# Dark Pulse Theme - A Sleek VS Code Theme [<img src="logo.png" alt="Dark Pulse Theme" width="90" height="90" align="right">](https://github.com/ZUN4lR/Dark-Pulse-Theme.git)
 
 > A modern and stylish theme designed to enhance your Visual Studio Code experience.
 
@@ -10,8 +10,8 @@
 First, download the theme from GitHub:
 
 ```bash
-git clone https://github.com/YourUsername/YourThemeName.git
-cd YourThemeName
+git https://github.com/ZUN4lR/Dark-Pulse-Theme.git
+cd Dark-Pulse-Theme 
 ```
 
 ### 🔧 Step 2: Install Required Package
@@ -39,13 +39,13 @@ This will create a `.vsix` file in your theme folder.
 
 ---
 
-## 🎨 Activating YourThemeName
+## ⚡ Activating Your Theme 
 
 1. Open **Command Palette** (`Ctrl+Shift+P` / `⌘+Shift+P` on macOS).
 2. Search for `Preferences: Color Theme` and select it.
-3. Choose **YourThemeName** from the list.
+3. Choose **Dark Pulse ** from the list.
 
-> ✨ *Enjoy the modern, sleek look of YourThemeName in your coding environment!*
+> ✨ *Enjoy the modern, sleek look of Dark Pulse Theme in your coding environment!*
 
 ---
 
@@ -88,8 +88,15 @@ For the best experience, consider adding these settings:
 ---
 
 ## 📜 License
-YourThemeName is licensed under the **MIT License**.
+Dark Pulse Theme is licensed under the **MIT License**.
 
 ---
 
-<p align="center"> <img src="https://yourtheme-website.com/logo.png" width="32" height="32"/> <br /> &copy; 2024 Your Name </p>
+<p align="center"> 
+  <img src="logo.png" width="32" height="32"/> <br /> 
+  &copy; <span id="year"></span> ZUN4iR 
+</p>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
