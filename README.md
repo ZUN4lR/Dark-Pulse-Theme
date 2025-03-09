@@ -2,15 +2,16 @@
 
 > A modern and stylish theme designed to enhance your Visual Studio Code experience.
 
+---
 
-
-<table>
+<table style="border-collapse: collapse; width: 100%; padding: 10px">
   <tr>
-    <td><img src="logo.png" width="500"></td>
+    <td style="border: none; padding: 0; border-radius: 8px;">
+      <img src="logo.png" style="width: 100%; display: block;">
+    </td>
   </tr>
 </table>
 
----
 
 ## 🚀 Installation Guide
 
