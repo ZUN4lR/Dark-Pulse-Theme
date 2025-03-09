@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.default.hc',
-  name: 'Material-Theme-Default-High-Contrast',
+  id: 'dark.pulse.theme.default.hc',
+  name: 'Pulse-Theme-Default-High-Contrast',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

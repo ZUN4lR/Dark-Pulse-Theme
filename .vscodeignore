@@ -1,0 +1,7 @@
+node_modules
+scripts
+types
+dist
+**/*.map
+!build/dark.pulse.theme.config.js
+!build/themes/**

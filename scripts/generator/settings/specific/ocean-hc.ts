@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.ocean.hc',
-  name: 'Material-Theme-Ocean-High-Contrast',
+  id: 'dark.pulse.theme.ocean.hc',
+  name: 'Pulse-Theme-Ocean-High-Contrast',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

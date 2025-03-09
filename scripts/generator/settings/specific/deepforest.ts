@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.deepforest',
-  name: 'Material-Theme-Deepforest',
+  id: 'dark.pulse.theme.deepforest',
+  name: 'Pulse-Theme-Deepforest',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

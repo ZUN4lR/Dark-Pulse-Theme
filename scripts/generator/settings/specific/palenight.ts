@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.palenight',
-  name: 'Material-Theme-Palenight',
+  id: 'dark.pulse.theme.palenight',
+  name: 'Pulse-Theme-Palenight',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

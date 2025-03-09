@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.palenight.hc',
-  name: 'Material-Theme-Palenight-High-Contrast',
+  id: 'dark.pulse.theme.palenight.hc',
+  name: 'Pulse-Theme-Palenight-High-Contrast',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

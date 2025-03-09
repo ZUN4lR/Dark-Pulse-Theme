@@ -1,6 +1,6 @@
 export default {
-  id: 'material.theme.darker',
-  name: 'Material-Theme-Darker',
+  id: 'dark.pulse.theme.darker',
+  name: 'Pulse-Theme-Darker',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',

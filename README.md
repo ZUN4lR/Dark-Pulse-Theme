@@ -1,74 +1,95 @@
-# Dark Pulse Theme [<img src="logo.png" alt="YourThemeName" width="90" height="90" align="right">](https://yourtheme-website.com/)
-> A modern and sleek theme for Visual Studio Code.
+# YourThemeName - A Sleek VS Code Theme [<img src="logo.png" alt="YourThemeName" width="90" height="90" align="right">](https://yourtheme-website.com/)
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
+> A modern and stylish theme designed to enhance your Visual Studio Code experience.
 
-## Table of Contents
+---
 
-The most stylish theme for Visual Studio Code.
+## 🚀 Installation Guide
 
-- [Dark Pulse Theme](#yourthemename)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-    - [Installation](#installation)
-  - [Activate Theme](#activate-theme)
-  - [Set the Accent Color](#set-the-accent-color)
-  - [Override Theme Colors](#override-theme-colors)
-  - [Recommended Settings](#recommended-settings)
-  - [Official Portings](#official-portings)
+### 📥 Step 1: Clone the Repository
+First, download the theme from GitHub:
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
+```bash
+git clone https://github.com/YourUsername/YourThemeName.git
+cd YourThemeName
+```
 
-## Getting Started
+### 🔧 Step 2: Install Required Package
+To generate a `.vsix` file for manual installation, install `vsce` (VS Code Extension Manager):
 
-You can install this theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.yourtheme-id). <a href="https://marketplace.visualstudio.com/items?itemName=YourPublisherName.yourtheme-id#review-details"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=flat-square"/></a>
+```bash
+npm install -g @vscode/vsce
+```
 
-### Installation
+### 📦 Step 3: Generate the `.vsix` File
+Run the following command inside the theme directory:
 
-Launch *Quick Open*:
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> Linux: `Ctrl+P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> macOS: `⌘P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> Windows: `Ctrl+P`
+```bash
+vsce package
+```
 
-Paste the following command and press `Enter`:
+This will create a `.vsix` file in your theme folder.
 
-```shell
-ext install YourPublisherName.yourtheme-id
+### 🛠 Step 4: Install the Theme in VS Code
+1. Open **Visual Studio Code**.
+2. Go to **Extensions** (`Ctrl+Shift+X` / `⌘+Shift+X` on macOS).
+3. Click on the `...` (More Actions) button in the top-right corner.
+4. Select **Install from VSIX...**
+5. Choose the generated `.vsix` file and install it.
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
-Activate Theme
-Launch Quick Open:
+---
 
-Linux: Ctrl + Shift + P
-macOS: ⌘ + Shift + P
-Windows: Ctrl + Shift + P
-Type theme, choose Preferences: Color Theme, and select YourThemeName.
+## 🎨 Activating YourThemeName
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
-Set the Accent Color
-Launch Quick Open:
+1. Open **Command Palette** (`Ctrl+Shift+P` / `⌘+Shift+P` on macOS).
+2. Search for `Preferences: Color Theme` and select it.
+3. Choose **YourThemeName** from the list.
 
-Linux: Ctrl + Shift + P
-macOS: ⌘ + Shift + P
-Windows: Ctrl + Shift + P
-Type yourtheme, choose YourThemeName: Set accent color, and pick one.
+> ✨ *Enjoy the modern, sleek look of YourThemeName in your coding environment!*
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
-Override Theme Colors
-Learn how to customize every part of this theme using VS Code API. Read more.
+---
 
-<img src="https://yourtheme-website.com/divider.png" height="30">
-Recommended Settings
-json
-Copy
-Edit
+## 🎨 Customizing the Theme
+Want to personalize it further? Override theme colors by adding the following in `settings.json`:
+
+```json
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#1E1E1E",
+        "editor.foreground": "#D4D4D4"
+    }
+}
+```
+
+---
+
+## 🖼 Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshot1.png" width="500"></td>
+    <td><img src="screenshot2.png" width="500"></td>
+  </tr>
+</table>
+
+---
+
+## 💡 Recommended VS Code Settings
+For the best experience, consider adding these settings:
+
+```json
 {
     "editor.lineHeight": 28,
-    "editor.fontLigatures": "'ss01','ss05','dlig'",
-    "explorer.decorations.badges": false
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
-<img src="https://yourtheme-website.com/divider.png" height="30">
-Official Portings
-You can find all the official portings and resources here.
+```
 
-<img src="https://yourtheme-website.com/divider.png" height="30"> <p align="center"> <img src="https://yourtheme-website.com/logo.png" width="32" height="32"/> <br /> &copy; 2024 Your Name </p> ```
+---
+
+## 📜 License
+YourThemeName is licensed under the **MIT License**.
+
+---
+
+<p align="center"> <img src="https://yourtheme-website.com/logo.png" width="32" height="32"/> <br /> &copy; 2024 Your Name </p>
